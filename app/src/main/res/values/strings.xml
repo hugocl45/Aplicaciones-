@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MiApp</string>
+
+    <string name="logo_desc">Logo de la aplicación</string>
+    <string name="titulo_bienvenida">Bienvenido/a</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="recordar_sesion">Recordar sesión</string>
+    <string name="boton_entrar">ENTRAR</string>
+    <string name="olvidaste_password">¿Olvidaste tu contraseña?</string>
+    <string name="toggle_password">Mostrar u ocultar contraseña</string>
+
+    <string name="error_email">Introduce un email válido</string>
+    <string name="error_password">Mínimo 8 caracteres, una mayúscula y un número</string>
+    <string name="login_correcto">Login correcto</string>
+    <string name="titulo_home">¡Bienvenido a Home!</string>
+
+    <string name="titulo_registro">Crear cuenta</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="acepto_terminos">Acepto los términos y condiciones</string>
+    <string name="boton_crear_cuenta">CREAR CUENTA</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta? Regístrate</string>
+    <string name="volver">Volver</string>
+
+    <string name="home_bienvenida">¡Bienvenido, %1$s!</string>
+    <string name="home_sin_email">¡Bienvenido!</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="menu_cerrar_sesion">Cerrar sesión</string>
+    <string name="dialog_acerca_titulo">Acerca de</string>
+    <string name="dialog_acerca_texto">MiApp v1.0\nDesarrollada por 2º DAM\nProgramación Multimedia y Dispositivos Móviles</string>
+    <string name="dialog_aceptar">Aceptar</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="abrir_menu">Abrir menú</string>
+</resources>
