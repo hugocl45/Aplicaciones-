@@ -32,4 +32,31 @@
     <string name="dialog_aceptar">Aceptar</string>
     <string name="dialog_cancelar">Cancelar</string>
     <string name="abrir_menu">Abrir menú</string>
+
+    <!-- CRUD Videojuegos -->
+    <string name="home_titulo_lista">Mis videojuegos</string>
+    <string name="home_lista_vacia">Todavía no has añadido videojuegos.\nPulsa + para añadir el primero.</string>
+    <string name="boton_add_videojuego">Añadir videojuego</string>
+    <string name="dialog_nuevo_titulo">Nuevo videojuego</string>
+    <string name="dialog_editar_titulo">Editar videojuego</string>
+    <string name="hint_titulo_juego">Título</string>
+    <string name="hint_plataforma">Plataforma (ej: PS5, Switch, PC)</string>
+    <string name="hint_genero">Género (ej: RPG, Aventura)</string>
+    <string name="hint_anyo">Año</string>
+    <string name="hint_nota">Nota (0-10)</string>
+    <string name="check_completado">Completado</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="dialog_borrar_titulo">Borrar videojuego</string>
+    <string name="dialog_borrar_texto">¿Seguro que quieres borrar "%1$s"? Esta acción no se puede deshacer.</string>
+    <string name="boton_borrar">Borrar</string>
+    <string name="cd_borrar_juego">Borrar videojuego</string>
+    <string name="cd_marcar_completado">Marcar como completado</string>
+    <string name="error_titulo_vacio">El título no puede estar vacío</string>
+    <string name="error_anyo_invalido">Introduce un año válido</string>
+    <string name="error_nota_invalida">La nota debe estar entre 0 y 10</string>
+
+    <!-- Notificaciones -->
+    <string name="notif_titulo">Videojuego añadido</string>
+    <string name="notif_mensaje">%1$s se ha añadido a tu colección</string>
 </resources>
